@@ -1,0 +1,18 @@
+[
+    {
+        "fullName": "afnaan",
+        "age": 20,
+        "isAlive": true
+    },
+    {
+        "fullName": "zoheb",
+        "age": 21,
+        "isAlive": true
+    },
+    {
+        "id": "239bd59b-7e65-4f6e-9bc2-acb0bb35b9a6",
+        "fullName": "ibrahimm",
+        "age": 0,
+        "isAlive": false
+    }
+]
