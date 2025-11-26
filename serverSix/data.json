@@ -1,0 +1,36 @@
+[
+    {
+        "id": "b478a875-7685-4013-b9e6-29fce455c2c0",
+        "fullName": "afnaan",
+        "age": 20,
+        "phoneNumber": 9573503729
+    },
+    {
+        "id": "01f6b24a-76af-4ebb-862f-6501a5859df2",
+        "fullName": "ibrahim",
+        "age": 29,
+        "phoneNumber": 234567865678
+    },
+    {
+        "id": "3c83d90e-09c1-4a10-a4e5-f43623db500b",
+        "fullName": "zoheb",
+        "age": 25,
+        "phoneNumber": 234565678
+    },
+    {
+        "id": "5cc961b3-b126-4ae8-85f1-486ace648c33",
+        "fullName": "zoheb",
+        "age": 25,
+        "school": "maharastra school of technology"
+    },
+    {
+        "id": "d5e735e0-21f6-49d1-824a-6eec126e10da",
+        "fullName": "zoheb",
+        "age": 25
+    },
+    {
+        "id": "072f10a7-af62-4240-92ea-54f0b7920a98",
+        "fullName": "kamra",
+        "age": 25
+    }
+]

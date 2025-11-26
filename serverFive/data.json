@@ -1,0 +1,14 @@
+[
+    {
+        "id": "d9fb1c64-3623-4f22-ba6a-488814cd01ac",
+        "fName": "kaif",
+        "age": 21,
+        "phoneNumber": 9022442668
+    },
+    {
+        "id": "57a2535e-180e-4fc9-a028-35dc365a1c09",
+        "fName": "ibrahim",
+        "age": 20,
+        "phoneNumber": 1234567890
+    }
+]

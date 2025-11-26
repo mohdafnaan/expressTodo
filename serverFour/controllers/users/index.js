@@ -6,9 +6,9 @@ const router = express.Router();
 
 router.get("/fetch",async(req,res)=>{
     try {
-        let dataContent = await usersData();
-        console.log(dataContent);
-        res.status(200).json({msg : dataContent})
+        let allUser= await dataContent();
+        console.log(allUser);
+        res.status(200).json({msg : allUser})
     } catch (error) {
         console.log(error);
         res.status(500).json({msg : error})
